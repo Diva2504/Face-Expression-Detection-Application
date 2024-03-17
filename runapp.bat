@@ -1,5 +1,4 @@
 @echo off
-echo Menjalankan aplikasi Face Expression Detection...
-call venv\Scripts\activate
+echo Running Face Expression Detection Application...
 streamlit run RealTimeApp.py
 pause
